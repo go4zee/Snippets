@@ -1,0 +1,6 @@
+D:\Visual Studio\Snippets\CompareTwoLists\CompareTwoLists\bin\Debug\CompareTwoLists.exe.config
+D:\Visual Studio\Snippets\CompareTwoLists\CompareTwoLists\obj\Debug\CompareTwoLists.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Snippets\CompareTwoLists\CompareTwoLists\bin\Debug\CompareTwoLists.exe
+D:\Visual Studio\Snippets\CompareTwoLists\CompareTwoLists\bin\Debug\CompareTwoLists.pdb
+D:\Visual Studio\Snippets\CompareTwoLists\CompareTwoLists\obj\Debug\CompareTwoLists.exe
+D:\Visual Studio\Snippets\CompareTwoLists\CompareTwoLists\obj\Debug\CompareTwoLists.pdb
