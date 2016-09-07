@@ -1,0 +1,6 @@
+D:\Visual Studio\Snippets\RotateArrays\RotateArrays\bin\Debug\RotateArrays.exe.config
+D:\Visual Studio\Snippets\RotateArrays\RotateArrays\obj\Debug\RotateArrays.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Snippets\RotateArrays\RotateArrays\bin\Debug\RotateArrays.exe
+D:\Visual Studio\Snippets\RotateArrays\RotateArrays\bin\Debug\RotateArrays.pdb
+D:\Visual Studio\Snippets\RotateArrays\RotateArrays\obj\Debug\RotateArrays.exe
+D:\Visual Studio\Snippets\RotateArrays\RotateArrays\obj\Debug\RotateArrays.pdb
